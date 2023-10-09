@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_spring/spring.dart';
+import 'package:flutter_rope/spring.dart';
 
 void main() {
   runApp(const MyApp());

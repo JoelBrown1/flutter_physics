@@ -5,3 +5,6 @@ https://docs.flutter.dev/cookbook/animation/physics-simulation?gclid=CjwKCAjwyY6
 
 bouncing spring effect example is from:
 https://www.youtube.com/watch?v=DP2OQqjRA4o
+
+rope physics example:
+https://www.youtube.com/watch?v=-eFCjlZDwtI
